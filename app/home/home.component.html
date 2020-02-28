@@ -1,0 +1,8 @@
+<p>
+home works!
+</p>
+<div *ngIf="user$.userData">
+  <div *ngFor="let book of user$.userData.books ">
+    <p>{{ book.title}}</p>
+  </div>
+</div>
