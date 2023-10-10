@@ -8,7 +8,7 @@
     "core-js": "2.4.1",
     "zone.js": "0.8.12",
     "clarity-ui": "0.10.17",
-    "@angular/core": "4.3.4",
+    "@angular/core": "10.2.5",
     "@angular/http": "4.3.4",
     "clarity-icons": "0.10.0",
     "@angular/forms": "4.3.4",
